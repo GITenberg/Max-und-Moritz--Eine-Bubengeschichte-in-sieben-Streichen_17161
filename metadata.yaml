@@ -1,0 +1,76 @@
+_repo: Max-und-Moritz--Eine-Bubengeschichte-in-sieben-Streichen_17161
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Busch, Wilhelm
+    alias: Bush, W. (Wilhelm)
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '4959'
+    url: http://www.gutenberg.org/2009/agents/4959
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Busch
+    - http://en.wikipedia.org/wiki/Wilhelm_Busch
+description: "Max and Moritz (A Story of Seven Boyish Pranks) (original: Max und Moritz\
+  \ – Eine Bubengeschichte in sieben Streichen) is a German language illustrated story\
+  \ in verse. This highly inventive, blackly humorous tale, told entirely in rhymed\
+  \ couplets, was written and illustrated by Wilhelm Busch and published in 1865.\
+  \ It is among the early works of Busch, nevertheless it already features many substantial,\
+  \ effectually aesthetic and formal regularities, procedures and basic patterns of\
+  \ Busch's later works. Many familiar with comic strip history consider it to have\
+  \ been the direct inspiration for the Katzenjammer Kids and Quick & Flupke. The\
+  \ German title satirizes the German custom of giving a subtitle to the name of dramas\
+  \ in the form of \"Ein Drama in ... Akten\" (A Drama in ... Acts), which became\
+  \ dictum in colloquial usage for any event with an unpleasant or dramatic course,\
+  \ e.g. \"Bundespräsidentenwahl - Drama in drei Akten\" (Federal Presidential Elections\
+  \ - Drama in Three Acts).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Picture Books
+- DE Lyrik
+- DE Kinderbuch
+gutenberg_issued: '2005-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17161'
+  wikidata: Q316894
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, German'
+- !lcc 'PT'
+- !lcsh 'Practical jokes -- Juvenile poetry'
+- !lcsh 'Wit and humor'
+- !lcc 'PZ'
+title: 'Max und Moritz: Eine Bubengeschichte in sieben Streichen'
+url: http://www.gutenberg.org/ebooks/17161
+wikipedia:
+- https://fi.wikipedia.org/wiki/Max_ja_Moritz
+- https://eo.wikipedia.org/wiki/Maks_kaj_Moric
+- https://commons.wikimedia.org/wiki/Category:Max_und_Moritz_(Busch)
+- https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BE_%CE%BA%CE%B1%CE%B9_%CE%9C%CF%8C%CF%81%CE%B9%CF%84%CE%B6
+- https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A8%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%83%E3%83%84
+- https://pt.wikipedia.org/wiki/Max_und_Moritz
+- https://de.wikisource.org/wiki/Max_und_Moritz
+- https://es.wikipedia.org/wiki/Max_y_Moritz
+- https://en.wikipedia.org/wiki/Max_and_Moritz
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81_%D0%B8_%D0%9C%D0%BE%D1%80%D0%B8%D1%86
+- https://fr.wikipedia.org/wiki/Max_et_Moritz
+- https://sh.wikipedia.org/wiki/Max_und_Moritz
+- https://wa.wikipedia.org/wiki/Li_vic%C3%A5reye_di_Simon_et_Lin%C3%A5d_(live_d%27_im%C3%A5djes)
+- https://la.wikipedia.org/wiki/Maxus_et_Mauritius
+- https://hu.wikipedia.org/wiki/Max_%C3%A9s_M%C3%B3ric
+- https://simple.wikipedia.org/wiki/Max_and_Moritz
+- https://sv.wikipedia.org/wiki/Max_och_Moritz
+- https://pcd.wikipedia.org/wiki/Max_und_Moritz
+- https://nl.wikipedia.org/wiki/Max_und_Moritz
+- https://de.wikipedia.org/wiki/Max_und_Moritz
+- https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81_%D0%B8_%D0%9C%D0%BE%D1%80%D0%B8%D1%86
+- https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%81_%D0%B8_%D0%9C%D0%BE%D1%80%D0%B8%D1%86
+- https://it.wikipedia.org/wiki/Max_e_Moritz
+- https://no.wikipedia.org/wiki/Max_og_Moritz
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%A1_%D7%95%D7%9E%D7%95%D7%A8%D7%99%D7%A5
